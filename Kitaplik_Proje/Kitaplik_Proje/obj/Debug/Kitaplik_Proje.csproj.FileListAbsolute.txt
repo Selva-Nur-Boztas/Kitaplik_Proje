@@ -1,0 +1,10 @@
+C:\Users\selva\Desktop\Kitaplık_Proje\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe.config
+C:\Users\selva\Desktop\Kitaplık_Proje\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe
+C:\Users\selva\Desktop\Kitaplık_Proje\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.pdb
+C:\Users\selva\Desktop\Kitaplık_Proje\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csprojAssemblyReference.cache
+C:\Users\selva\Desktop\Kitaplık_Proje\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Form1.resources
+C:\Users\selva\Desktop\Kitaplık_Proje\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Properties.Resources.resources
+C:\Users\selva\Desktop\Kitaplık_Proje\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.GenerateResource.cache
+C:\Users\selva\Desktop\Kitaplık_Proje\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.CoreCompileInputs.cache
+C:\Users\selva\Desktop\Kitaplık_Proje\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.exe
+C:\Users\selva\Desktop\Kitaplık_Proje\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.pdb
